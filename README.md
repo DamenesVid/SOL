@@ -3,7 +3,6 @@
 
 # <a href="https://www.celestegame.com"> /></a>
 
-This is the official respository for the episode #11 of the [Mix and Jam Youtube Channel](https://www.youtube.com/c/MixAndJam)!
 
 ## Começando
 
