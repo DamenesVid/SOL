@@ -1,6 +1,4 @@
-# <img src="https://www.celestegame.com/favicon.ico" width="30"/> Nome do Jogo
-
-> Um jogo de plataforma 2D inspirado por **Celeste** e **Hollow Knight**, com uma narrativa envolvente e mecânicas desafiadoras.
+# <img src="https://user-images.githubusercontent.com/17222512/62645521-649fe700-b91a-11e9-9e30-9c3499598deb.png" width="50" /> Souls Of Lumina - Sol 
 
 ![Status do Projeto](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)  
 ![Versão do Jogo](https://img.shields.io/badge/versão-0.1-blue)  
