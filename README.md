@@ -28,4 +28,4 @@ Siga as instruções abaixo para obter uma cópia do projeto em funcionamento lo
 
 1. Clone o repositório em sua máquina local:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/DamenesVid/SOL.git
